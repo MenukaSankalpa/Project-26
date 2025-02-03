@@ -1,2 +1,2 @@
 # Project-26
-A Django-based application implementing complete CRUD operations (Create, Read, Update, Delete) in Python enables seamless management of data. Users can add, view, modify, or delete records through an intuitive interface, with Django handling the backend logic, database connections, and data validation efficiently.
+A To-Do List app built with HTML, CSS, and JavaScript lets users add, edit, delete, and mark tasks as complete. JavaScript handles task management, while CSS styles the user interface for a clean and responsive experience. The app provides a simple, interactive way to organize and track daily tasks efficiently.
